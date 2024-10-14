@@ -14,3 +14,7 @@ int main() {
     rev(num);
     cout << endl;
 }
+/*
+Enter a number: 45
+Reversed number is: 54
+*/
