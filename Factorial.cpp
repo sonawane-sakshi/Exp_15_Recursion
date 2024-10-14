@@ -13,3 +13,8 @@ int main() {
     cout << "Factorial of " << num << " is " << factorial(num) << endl;
     return 0;
 }
+/*
+    **OUTPUT**
+Enter a number: 7'
+Factorial of 7 is 5040
+*/
