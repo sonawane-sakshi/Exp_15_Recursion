@@ -15,3 +15,8 @@ int main() {
     cout << "Sum of integers is: " << sum(num) << endl;
     return 0;
 }
+/*
+**OUTPUT**
+Enter a number: 3
+Sum of integers is: 6
+*/
